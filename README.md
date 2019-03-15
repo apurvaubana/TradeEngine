@@ -27,4 +27,4 @@ Trade report engine
 	4. Hit swagger URL at  http://localhost:8080/swagger-ui.html
 	
 # Architecture
-   trade-engine/Arch_Diagram.jpg
+   ![Screenshot](/trade-engine/Arch_Diagram.jpg)
